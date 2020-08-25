@@ -1,18 +1,18 @@
 ### Ollo!
 
 My name is Alex M. Maldonado (he/him).
-In short, I am a chemical engineering Ph.D. student at the University of Pittsburgh.
-I explore how to predict chemical reactions that occur in solvents using state-of-the-art quantum chemistry and machine learning.
+In short, I am a chemical engineering Ph.D. student at the [University of Pittsburgh](https://www.pitt.edu/).
+I explore how to predict chemical reactions that occur in solvents using state-of-the-art quantum chemistry and machine learning with [Dr. John Keith](http://www.klic.pitt.edu/).
 
 ### Values
 
 **Open Knowledge**\
 Social mobility in today's modern world is intimately [tied to educational opportunities](https://en.wikipedia.org/wiki/Social_mobility#Influence_of_intelligence_and_education).
 High-quality educators, or even resources, are not widely available through traditional routes.
-Thus, educational materials must be easily available to all.
+Thus, educational materials must be accessible to all.
 
 The [Information Age](https://en.wikipedia.org/wiki/Information_Age) has revolutionized our consumption and retention of knowledge.
-Now, ee all can [stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+Now, we all can [stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 However, gaps between novice and expert are often too vast without immense time and dedicated mentorship.
 I am privileged to have received both and am working to reduce the barrier for others.
 
@@ -21,7 +21,7 @@ Certainty and steadfastness are dangerous characteristics that often limit ones 
 Challenging assumptions and preconceived notions are essential for efficient progression of science.
 This requires personal diligence in being aware of ones use of [logical fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) and [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
 
-Shout out to my favorite group of people: the [skeptics guide to the universe](https://www.theskepticsguide.org/).
+Shout out to my favorite podcast: the [skeptics guide to the universe](https://www.theskepticsguide.org/).
 
 **Reproducibility**\
 Computational sciences are in the midsts of a [reproducibility crisis](https://www.chemistryworld.com/news/chemistrys-reproducibility-crisis-that-youve-probably-never-heard-of/4011693.article).
