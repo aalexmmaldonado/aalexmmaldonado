@@ -21,7 +21,7 @@ Certainty and steadfastness are dangerous characteristics that often limit ones 
 Challenging assumptions and preconceived notions are essential for efficient progression of science.
 This requires personal diligence in being aware of ones use of [logical fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) and [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
 
-Shout out to my favorite podcast: the [skeptics guide to the universe](https://www.theskepticsguide.org/).
+Shout out to [Chasz Griego](https://twitter.com/ChaszGriego) for introducing me to the [skeptics guide to the universe](https://www.theskepticsguide.org/)!
 
 **Reproducibility**\
 Computational sciences are in the midsts of a [reproducibility crisis](https://www.chemistryworld.com/news/chemistrys-reproducibility-crisis-that-youve-probably-never-heard-of/4011693.article).
