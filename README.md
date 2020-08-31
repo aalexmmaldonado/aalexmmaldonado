@@ -31,13 +31,13 @@ How the multitudes of molecular machines work together to be life is, amazing.
 While each individual component has its crucial role, proteins are the ultimate stop.
 Understanding the tertiary structure of proteins from its amino acid sequence is one of the monumental challenges ahead of us; one that I wish to contribute to.
 
-I am taking a convoluted way of getting there.
+### Projects
+
+I am taking a convoluted way of getting to my desired field.
 My endeavors in quantum and statistical mechanics will provide a ground-up understanding for macromolecules.
 Quantum-level detail in larger systems and time scales, however, requires course graining and/or machine learning.
 Furthermore, the protein structure itself is influenced by the local environment.
 Thus, I am learning how to model such solvent interactions with quantum-chemical accuracy and machine learning.
-
-### Projects
 
 **Reactions in Solvents**\
 TODO
