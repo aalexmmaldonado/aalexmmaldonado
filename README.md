@@ -42,11 +42,6 @@ Thus, I am learning how to model such solvent interactions with quantum-chemical
 **Reactions in Solvents**\
 TODO
 
-**Knowledge Documentation**\
-During my time at Pitt I started documenting my information and experience in a [TiddlyWiki](https://aalexmmaldonado.com/html/projects/breadcrumbs.html).
-It is filled with literature I find, techniques I use, and explanations of concepts.
-This is not meant to be an authoritative reference on anything; more similar to a trail of breadcrumbs towards expertise.
-
 <!--
 **aalexmmaldonado/aalexmmaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
