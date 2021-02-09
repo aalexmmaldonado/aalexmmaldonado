@@ -4,25 +4,6 @@ My name is Alex M. Maldonado (he/him).
 In short, I am a chemical engineering Ph.D. student at the [University of Pittsburgh](https://www.pitt.edu/).
 I explore how to predict chemical reactions in solvents using state-of-the-art quantum chemistry and machine learning with [Dr. John Keith](http://www.klic.pitt.edu/).
 
-### Values
-
-**Open Knowledge**\
-Social mobility in today's modern world is [tied to educational opportunities](https://en.wikipedia.org/wiki/Social_mobility#Influence_of_intelligence_and_education).
-High-quality educators, or even resources, are not always available through traditional routes.
-The [Information Age](https://en.wikipedia.org/wiki/Information_Age) has revolutionized our consumption and retention of knowledge.
-Now, we all can [stand on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
-
-**Skepticism**\
-Challenging assumptions and preconceived notions are essential for efficient progression of science.
-This requires personal diligence in being aware of one's use of [logical fallacies](https://en.wikipedia.org/wiki/List_of_fallacies) and [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases).
-Shout out to [Chasz Griego](https://twitter.com/ChaszGriego) for introducing me to the [skeptics guide to the universe](https://www.theskepticsguide.org/)!
-
-**Reproducibility**\
-Computational sciences are in the midsts of a [reproducibility crisis](https://www.chemistryworld.com/news/chemistrys-reproducibility-crisis-that-youve-probably-never-heard-of/4011693.article).
-Codes should be well documented and publicly available; shifting the burden of reproducibility away from trust.
-All input and output files [should be provided](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.7b00799) to describe exact computational conditions.
-Whenever possible, all files pertaining to a study should be available under an open-source license (like [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)).
-
 ### Interests
 
 Like many, my interests have grown with time.
