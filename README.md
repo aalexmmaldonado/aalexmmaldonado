@@ -1,8 +1,8 @@
 ## Ollo!
 
-- :books: Chemical engineering Ph.D. student at the [University of Pittsburgh](https://www.engineering.pitt.edu/chemicalpetroleum) with [Dr. John Keith](http://www.klic.pitt.edu/).
+- :books: Chemical engineering Ph.D. student at the [University of Pittsburgh](https://www.engineering.pitt.edu/chemicalpetroleum) working with [Dr. John Keith](http://www.klic.pitt.edu/).
 - :microscope: Computationally model solvated chemical processes using quantum chemistry, molecular simulations, and machine learning.
-- :paintbrush: Finding ways to elegantly visualize and present research concepts and data.
+- :paintbrush: Finding ways to elegantly visualize and present scientific concepts and data.
 
 ### Projects
 
