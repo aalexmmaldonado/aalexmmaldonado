@@ -10,5 +10,3 @@
 - **Computational chemistry reproducibility:** [**Reproducible**, tailorable archives](https://github.com/aalexmmaldonado/reptar); [**Coverting** quantum chemisty output files into JSONs](https://github.com/keithgroup/qcjson)
 - **Quantum alchemy:** [**Framework** for PySCF quantum alchemy with atoms and dimer molecules](https://github.com/keithgroup/qa-atoms-dimers)
 - **Applications:** [**Borohydride** reduction of carbon dioxide](https://zenodo.org/record/4336730); [**Solvent** and solute-solvent clusters](https://github.com/keithgroup/solute-solvent-clusters)
-
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalexmmaldonado&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
